@@ -1,6 +1,3 @@
-[![MELPA](http://melpa.org/packages/monokai-theme-badge.svg)](http://melpa.org/#/monokai-theme)
-[![MELPA Stable](http://stable.melpa.org/packages/monokai-theme-badge.svg)](http://stable.melpa.org/#/monokai-theme)
-
 # About
 
 Monokai for Emacs is a port of the popular TextMate theme [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) by Wimer Hazenberg.
